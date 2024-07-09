@@ -11,4 +11,3 @@ I'm from the USA, Pacific Time zone. I am a recent graduate open to opportunitie
 
 ### 📫 How to reach me: ...
 
-[<img src="assets/envelope.png" height="50px">](mailto:ecarmona235@gmail.com)
