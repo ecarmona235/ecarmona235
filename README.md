@@ -9,5 +9,9 @@ I'm from the USA, Pacific Time zone. I am a recent graduate open to opportunitie
    
 ### 📚 I'm currently learning ...
 
-### 📫 How to reach me: ...
+   <p>Growing in back-end development through projects.<p/>
+   <p>Learning automation and Robotic Process Automation.</p>
+   
 
+### 📫 How to reach me: ...
+   [📧](mailto:ecarmona235@gmail.com)
