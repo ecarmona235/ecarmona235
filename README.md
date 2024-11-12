@@ -7,7 +7,6 @@ I'm from the USA, Pacific Time zone. I am a recent graduate open to opportunitie
 ---  
 ## 📚 I'm currently learning ...
 - Growing in back-end development through projects.
-- Learning automation and Robotic Process Automation.
 ---
 ### 📫 How to reach me: ...
    [📧](mailto:ecarmona235@gmail.com)
