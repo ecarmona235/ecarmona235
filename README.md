@@ -11,10 +11,12 @@ I bring a unique perspective shaped by my background in healthcare, my service i
 
 Technical Skills:
 Next.js • React • Node.js • FastAPI • Python • TypeScript • AI Integration • FullStack Development • Tailwind CSS
+
 ---
 ## 💻 I'm currently working on ...
 AI Resume and Career Agent Platform (In Progress)
 Developing a subscription-based SaaS application that uses AI agents to automate resume writing, job-specific cover letters, application assistance, and behavioral interview preparation. Built with Next.js, TypeScript, Convex, Clerk, Stripe, and Inngest for AI orchestration and user management.
+
 ---  
 ## 📚 I'm currently learning ...
 - AI intergration and development
